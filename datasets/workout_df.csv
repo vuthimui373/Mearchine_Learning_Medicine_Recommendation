@@ -1,0 +1,411 @@
+﻿,disease,workout
+0,Nhiễm trùng nấm,Tránh thực phẩm có đường
+1,Nhiễm trùng nấm,Tiêu thụ men vi sinh
+2,Nhiễm trùng nấm,Tăng cường ăn tỏi
+3,Nhiễm trùng nấm,Thêm sữa chua vào chế độ ăn
+4,Nhiễm trùng nấm,Hạn chế thực phẩm chế biến sẵn
+5,Nhiễm trùng nấm,Giữ nước
+6,Nhiễm trùng nấm,Tiêu thụ trà xanh
+7,Nhiễm trùng nấm,Ăn thực phẩm giàu kẽm
+8,Nhiễm trùng nấm,Thêm nghệ vào chế độ ăn uống
+9,Nhiễm trùng nấm,Ăn trái cây và rau quả
+10,Dị ứng,Tránh thực phẩm gây dị ứng
+11,Dị ứng,Tiêu thụ thực phẩm chống viêm
+12,Dị ứng,Bao gồm axit béo omega-3
+13,Dị ứng,Giữ nước
+14,Dị ứng,Ăn thực phẩm giàu vitamin C
+15,Dị ứng,Bổ sung thực phẩm giàu quercetin
+16,Dị ứng,Tiêu thụ mật ong địa phương
+17,Dị ứng,Hạn chế thực phẩm chế biến sẵn
+18,Dị ứng,Thêm gừng vào chế độ ăn uống
+19,Dị ứng,Tránh các chất phụ gia nhân tạo
+20,Bệnh trào ngược dạ dày,Ăn nhiều bữa nhỏ hơn
+21,Bệnh trào ngược dạ dày,"Tránh các thực phẩm kích thích (cay, béo)"
+22,Bệnh trào ngược dạ dày,Ăn thực phẩm giàu chất xơ
+23,Bệnh trào ngược dạ dày,Hạn chế caffeine và rượu
+24,Bệnh trào ngược dạ dày,Nhai kỹ thức ăn
+25,Bệnh trào ngược dạ dày,Tránh ăn khuya
+26,Bệnh trào ngược dạ dày,Ăn trái cây không có múi
+27,Bệnh trào ngược dạ dày,Bao gồm protein nạc
+28,Bệnh trào ngược dạ dày,Giữ nước
+29,Bệnh trào ngược dạ dày,Tránh đồ uống có ga
+30,Ứ mật mãn tính,Áp dụng chế độ ăn ít chất béo
+31,Ứ mật mãn tính,Ăn thực phẩm giàu chất xơ
+32,Ứ mật mãn tính,Bao gồm chất béo lành mạnh
+33,Ứ mật mãn tính,Hạn chế uống rượu
+34,Ứ mật mãn tính,Giữ nước
+35,Ứ mật mãn tính,Tiêu thụ thực phẩm giàu chất chống oxy hóa
+36,Ứ mật mãn tính,Bao gồm axit béo omega-3
+37,Ứ mật mãn tính,Bao gồm protein nạc
+38,Ứ mật mãn tính,Hạn chế thực phẩm chế biến sẵn
+39,Ứ mật mãn tính,Tránh thực phẩm chiên
+40,Phản ứng thuốc,Ngừng dùng thuốc vi phạm
+41,Phản ứng thuốc,Giữ nước
+42,Phản ứng thuốc,Bổ sung thực phẩm chống viêm
+43,Phản ứng thuốc,Tiêu thụ chất chống oxy hóa
+44,Phản ứng thuốc,Tránh thực phẩm kích hoạt
+45,Phản ứng thuốc,Bao gồm axit béo omega-3
+46,Phản ứng thuốc,Hạn chế caffeine và rượu
+47,Phản ứng thuốc,Giữ nước
+48,Phản ứng thuốc,Ăn một chế độ ăn uống cân bằng
+49,Phản ứng thuốc,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+50,Bệnh loét dạ dày tá tràng,"Ăn các bữa ăn nhỏ hơn, thường xuyên hơn"
+51,Bệnh loét dạ dày tá tràng,"Tránh các thực phẩm kích thích (cay, chua)"
+52,Bệnh loét dạ dày tá tràng,Bổ sung thực phẩm giàu chất xơ
+53,Bệnh loét dạ dày tá tràng,Hạn chế caffeine và rượu
+54,Bệnh loét dạ dày tá tràng,Giữ nước
+55,Bệnh loét dạ dày tá tràng,Tiêu thụ men vi sinh
+56,Bệnh loét dạ dày tá tràng,Bao gồm protein nạc
+57,Bệnh loét dạ dày tá tràng,Bổ sung thực phẩm giàu chất chống oxy hóa
+58,Bệnh loét dạ dày tá tràng,Hạn chế thực phẩm chế biến sẵn
+59,Bệnh loét dạ dày tá tràng,Tránh hút thuốc và uống rượu
+60,AIDS,Thực hiện chế độ ăn uống cân bằng và bổ dưỡng
+61,AIDS,Bao gồm protein nạc
+62,AIDS,Tiêu thụ thực phẩm giàu chất dinh dưỡng
+63,AIDS,Giữ nước
+64,AIDS,Bao gồm chất béo lành mạnh
+65,AIDS,Tránh thực phẩm sống hoặc chưa nấu chín
+66,AIDS,Hạn chế thực phẩm và đồ uống có đường
+67,AIDS,Tiêu thụ thực phẩm tăng cường miễn dịch
+68,AIDS,Uống thuốc bổ sung theo quy định
+69,AIDS,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+70,Bệnh tiểu đường,Theo dõi lượng carbohydrate tiêu thụ
+71,Bệnh tiểu đường,Ăn các bữa ăn cân bằng
+72,Bệnh tiểu đường,Bao gồm protein nạc
+73,Bệnh tiểu đường,Tiêu thụ thực phẩm giàu chất xơ
+74,Bệnh tiểu đường,Giữ nước
+75,Bệnh tiểu đường,Hạn chế thực phẩm và đồ uống có đường
+76,Bệnh tiểu đường,Bao gồm chất béo lành mạnh
+77,Bệnh tiểu đường,Theo dõi lượng đường trong máu
+78,Bệnh tiểu đường,Tham khảo ý kiến ​​​​chuyên gia dinh dưỡng đã đăng ký
+79,Bệnh tiểu đường,Dùng thuốc được kê đơn theo chỉ dẫn
+80,Viêm dạ dày ruột,Giữ nước
+81,Viêm dạ dày ruột,Tiêu thụ chất lỏng trong suốt
+82,Viêm dạ dày ruột,"Thực hiện chế độ ăn BRAT (chuối, cơm, sốt táo, bánh mì nướng)"
+83,Viêm dạ dày ruột,Bao gồm các món ăn nhạt
+84,Viêm dạ dày ruột,Tránh thức ăn béo và nhiều dầu mỡ
+85,Viêm dạ dày ruột,Hạn chế caffeine và rượu
+86,Viêm dạ dày ruột,Tránh ăn đồ cay
+87,Viêm dạ dày ruột,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+88,Viêm dạ dày ruột,Dần dần giới thiệu lại thức ăn đặc
+89,Viêm dạ dày ruột,Tránh các sản phẩm từ sữa
+90,Hen phế quản,Bổ sung thực phẩm chống viêm
+91,Hen phế quản,Tiêu thụ axit béo omega-3
+92,Hen phế quản,Hạn chế ăn natri
+93,Hen phế quản,Giữ nước
+94,Hen phế quản,Bổ sung thực phẩm giàu chất chống oxy hóa
+95,Hen phế quản,Tránh thực phẩm chứa sulfite
+96,Hen phế quản,Hạn chế thực phẩm chế biến sẵn
+97,Hen phế quản,Tiêu thụ thực phẩm giàu magie
+98,Hen phế quản,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+99,Hen phế quản,Tránh thực phẩm kích hoạt
+100,Tăng huyết áp,Thực hiện chế độ ăn DASH (Phương pháp ăn kiêng để ngăn chặn tăng huyết áp)
+101,Tăng huyết áp,Hạn chế ăn natri
+102,Tăng huyết áp,Bổ sung thực phẩm giàu kali
+103,Tăng huyết áp,Giữ nước
+104,Tăng huyết áp,Tiêu thụ thực phẩm giàu canxi
+105,Tăng huyết áp,Hạn chế uống rượu
+106,Tăng huyết áp,Bổ sung thực phẩm giàu magie
+107,Tăng huyết áp,Tiêu thụ axit béo omega-3
+108,Tăng huyết áp,Hạn chế thực phẩm chế biến sẵn
+109,Tăng huyết áp,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+110,Chứng đau nửa đầu,Xác định và tránh các thực phẩm kích thích
+111,Chứng đau nửa đầu,Giữ nước
+112,Chứng đau nửa đầu,Bổ sung thực phẩm giàu magie
+113,Chứng đau nửa đầu,Tiêu thụ axit béo omega-3
+114,Chứng đau nửa đầu,Hạn chế caffeine và rượu
+115,Chứng đau nửa đầu,Tiêu thụ thực phẩm giàu riboflavin
+116,Chứng đau nửa đầu,Hạn chế thực phẩm chế biến sẵn
+117,Chứng đau nửa đầu,Duy trì giờ ăn đều đặn
+118,Chứng đau nửa đầu,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+119,Chứng đau nửa đầu,Quản lý căng thẳng
+120,Thoái hóa đốt sống cổ,Bổ sung thực phẩm chống viêm
+121,Thoái hóa đốt sống cổ,Tiêu thụ axit béo omega-3
+122,Thoái hóa đốt sống cổ,Bổ sung thực phẩm giàu vitamin D
+123,Thoái hóa đốt sống cổ,Giữ nước
+124,Thoái hóa đốt sống cổ,Tiêu thụ thực phẩm giàu chất chống oxy hóa
+125,Thoái hóa đốt sống cổ,Hạn chế thực phẩm chế biến sẵn
+126,Thoái hóa đốt sống cổ,Bao gồm protein nạc
+127,Thoái hóa đốt sống cổ,Luyện tập tư thế tốt
+128,Thoái hóa đốt sống cổ,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+129,Thoái hóa đốt sống cổ,Tham gia tập thể dục thường xuyên
+130,Liệt (xuất huyết não),Thực hiện chế độ ăn uống cân bằng và bổ dưỡng
+131,Liệt (xuất huyết não),Bao gồm protein nạc
+132,Liệt (xuất huyết não),Tiêu thụ thực phẩm giàu chất dinh dưỡng
+133,Liệt (xuất huyết não),Giữ nước
+134,Liệt (xuất huyết não),Bao gồm chất béo lành mạnh
+135,Liệt (xuất huyết não),Hạn chế thực phẩm và đồ uống có đường
+136,Liệt (xuất huyết não),Bao gồm chất chống oxy hóa
+137,Liệt (xuất huyết não),Tiêu thụ thực phẩm giàu vitamin K
+138,Liệt (xuất huyết não),Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+139,Liệt (xuất huyết não),Quản lý căng thẳng
+140,Vàng da,Giữ nước
+141,Vàng da,Tiêu thụ thực phẩm giàu chất dinh dưỡng
+142,Vàng da,Bổ sung thực phẩm giàu protein
+143,Vàng da,Dùng thực phẩm dễ tiêu hóa
+144,Vàng da,Hạn chế ăn đồ béo
+145,Vàng da,Tránh uống rượu và caffeine
+146,Vàng da,Bổ sung thực phẩm giàu vitamin C
+147,Vàng da,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+148,Vàng da,Nghỉ ngơi và tiết kiệm năng lượng
+149,Vàng da,Dần dần trở lại chế độ ăn uống bình thường
+150,Sốt rét,Giữ nước
+151,Sốt rét,Tiêu thụ thực phẩm giàu chất dinh dưỡng
+152,Sốt rét,Bổ sung thực phẩm giàu protein
+153,Sốt rét,Tiêu thụ thực phẩm giàu chất chống oxy hóa
+154,Sốt rét,"Hạn chế ăn đồ béo, nhiều dầu mỡ"
+155,Sốt rét,Tránh uống rượu và caffeine
+156,Sốt rét,Bổ sung thực phẩm giàu vitamin C
+157,Sốt rét,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+158,Sốt rét,Nghỉ ngơi và tiết kiệm năng lượng
+159,Sốt rét,Dần dần trở lại chế độ ăn uống bình thường
+160,Thủy đậu,Giữ nước
+161,Thủy đậu,Bổ sung các loại thực phẩm dễ tiêu hóa
+162,Thủy đậu,Bổ sung thực phẩm giàu vitamin C
+163,Thủy đậu,Tiêu thụ thực phẩm giàu protein
+164,Thủy đậu,Bổ sung thực phẩm giàu kẽm
+165,Thủy đậu,Tránh thực phẩm cay và có tính axit
+166,Thủy đậu,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+167,Thủy đậu,Thực hành vệ sinh tốt
+168,Thủy đậu,Nghỉ ngơi và tiết kiệm năng lượng
+169,Thủy đậu,Dần dần trở lại chế độ ăn uống bình thường
+170,Sốt xuất huyết,Giữ nước
+171,Sốt xuất huyết,Bổ sung thực phẩm giàu dinh dưỡng
+172,Sốt xuất huyết,Tiêu thụ thực phẩm giàu vitamin C và chất chống oxy hóa
+173,Sốt xuất huyết,"Hạn chế ăn đồ béo, nhiều dầu mỡ"
+174,Sốt xuất huyết,Tránh caffeine và rượu
+175,Sốt xuất huyết,"Bổ sung các loại thực phẩm mềm, dễ tiêu hóa"
+176,Sốt xuất huyết,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+177,Sốt xuất huyết,Nghỉ ngơi và tiết kiệm năng lượng
+178,Sốt xuất huyết,Dần dần trở lại chế độ ăn uống bình thường
+179,Sốt xuất huyết,Thực hiện theo các khuyến nghị y tế
+180,Bệnh thương hàn,Dùng thực phẩm dễ tiêu hóa
+181,Bệnh thương hàn,Giữ nước
+182,Bệnh thương hàn,Bổ sung thực phẩm giàu dinh dưỡng
+183,Bệnh thương hàn,Tiêu thụ thực phẩm giàu vitamin C và chất chống oxy hóa
+184,Bệnh thương hàn,Bổ sung thực phẩm giàu protein
+185,Bệnh thương hàn,Tránh thức ăn béo và nhiều dầu mỡ
+186,Bệnh thương hàn,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+187,Bệnh thương hàn,Dần dần trở lại chế độ ăn uống bình thường
+188,Bệnh thương hàn,Thực hiện theo các khuyến nghị y tế
+189,Bệnh thương hàn,Tránh uống rượu và caffeine
+190,Viêm gan A,Giữ nước
+191,Viêm gan A,Tiêu thụ thực phẩm giàu chất dinh dưỡng
+192,Viêm gan A,Bổ sung thực phẩm giàu protein
+193,Viêm gan A,Dùng thực phẩm dễ tiêu hóa
+194,Viêm gan A,Hạn chế ăn đồ béo
+195,Viêm gan A,Tránh uống rượu và caffeine
+196,Viêm gan A,Bổ sung thực phẩm giàu vitamin C
+197,Viêm gan A,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+198,Viêm gan A,Nghỉ ngơi và tiết kiệm năng lượng
+199,Viêm gan A,Dần dần trở lại chế độ ăn uống bình thường
+200,Viêm gan B,Thực hiện chế độ ăn uống cân bằng và bổ dưỡng
+201,Viêm gan B,Giữ nước
+202,Viêm gan B,Bổ sung thực phẩm giàu protein
+203,Viêm gan B,Tiêu thụ thực phẩm giàu chất dinh dưỡng
+204,Viêm gan B,Hạn chế ăn đồ béo
+205,Viêm gan B,Tránh uống rượu và caffeine
+206,Viêm gan B,Bổ sung thực phẩm giàu vitamin C
+207,Viêm gan B,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+208,Viêm gan B,Nghỉ ngơi và tiết kiệm năng lượng
+209,Viêm gan B,Dần dần trở lại chế độ ăn uống bình thường
+210,Viêm gan C,Thực hiện chế độ ăn uống cân bằng và bổ dưỡng
+211,Viêm gan C,Giữ nước
+212,Viêm gan C,Bổ sung thực phẩm giàu protein
+213,Viêm gan C,Tiêu thụ thực phẩm giàu chất dinh dưỡng
+214,Viêm gan C,Hạn chế ăn đồ béo
+215,Viêm gan C,Tránh uống rượu và caffeine
+216,Viêm gan C,Bổ sung thực phẩm giàu vitamin C
+217,Viêm gan C,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+218,Viêm gan C,Nghỉ ngơi và tiết kiệm năng lượng
+219,Viêm gan C,Dần dần trở lại chế độ ăn uống bình thường
+220,Viêm gan D,Thực hiện chế độ ăn uống cân bằng và bổ dưỡng
+221,Viêm gan D,Giữ nước
+222,Viêm gan D,Bổ sung thực phẩm giàu protein
+223,Viêm gan D,Tiêu thụ thực phẩm giàu chất dinh dưỡng
+224,Viêm gan D,Hạn chế ăn đồ béo
+225,Viêm gan D,Tránh uống rượu và caffeine
+226,Viêm gan D,Bổ sung thực phẩm giàu vitamin C
+227,Viêm gan D,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+228,Viêm gan D,Nghỉ ngơi và tiết kiệm năng lượng
+229,Viêm gan D,Dần dần trở lại chế độ ăn uống bình thường
+230,Viêm gan E,Giữ nước
+231,Viêm gan E,Tiêu thụ thực phẩm giàu chất dinh dưỡng
+232,Viêm gan E,Bổ sung thực phẩm giàu protein
+233,Viêm gan E,Dùng thực phẩm dễ tiêu hóa
+234,Viêm gan E,Hạn chế ăn đồ béo
+235,Viêm gan E,Tránh uống rượu và caffeine
+236,Viêm gan E,Bổ sung thực phẩm giàu vitamin C
+237,Viêm gan E,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+238,Viêm gan E,Nghỉ ngơi và tiết kiệm năng lượng
+239,Viêm gan E,Dần dần trở lại chế độ ăn uống bình thường
+240,Viêm gan Do rượu,Tránh uống rượu
+241,Viêm gan Do rượu,Thực hiện chế độ ăn uống cân bằng và bổ dưỡng
+242,Viêm gan Do rượu,Giữ nước
+243,Viêm gan Do rượu,Tiêu thụ thực phẩm giàu chất dinh dưỡng
+244,Viêm gan Do rượu,Bổ sung thực phẩm giàu protein
+245,Viêm gan Do rượu,Hạn chế ăn đồ béo
+246,Viêm gan Do rượu,Bao gồm chất chống oxy hóa
+247,Viêm gan Do rượu,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+248,Viêm gan Do rượu,Nghỉ ngơi và tiết kiệm năng lượng
+249,Viêm gan Do rượu,Dần dần trở lại chế độ ăn uống bình thường
+250,Bệnh lao,Áp dụng chế độ ăn giàu protein
+251,Bệnh lao,Bổ sung thực phẩm giàu dinh dưỡng
+252,Bệnh lao,Giữ nước
+253,Bệnh lao,Tiêu thụ thực phẩm giàu vitamin A và C
+254,Bệnh lao,Bổ sung thực phẩm giàu kẽm
+255,Bệnh lao,Hạn chế thực phẩm và đồ uống có đường
+256,Bệnh lao,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+257,Bệnh lao,Nghỉ ngơi và tiết kiệm năng lượng
+258,Bệnh lao,Dần dần trở lại chế độ ăn uống bình thường
+259,Bệnh lao,Thực hiện theo các khuyến nghị y tế
+260,Cảm lạnh thông thường,Giữ nước
+261,Cảm lạnh thông thường,Bổ sung thực phẩm giàu dinh dưỡng
+262,Cảm lạnh thông thường,Tiêu thụ thực phẩm giàu vitamin C và chất chống oxy hóa
+263,Cảm lạnh thông thường,Bổ sung thực phẩm giàu kẽm
+264,Cảm lạnh thông thường,Hạn chế thực phẩm và đồ uống có đường
+265,Cảm lạnh thông thường,Ăn súp gà
+266,Cảm lạnh thông thường,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+267,Cảm lạnh thông thường,Nghỉ ngơi và tiết kiệm năng lượng
+268,Cảm lạnh thông thường,Dần dần trở lại chế độ ăn uống bình thường
+269,Cảm lạnh thông thường,Thực hiện theo các khuyến nghị y tế
+270,Viêm phổi,Giữ nước
+271,Viêm phổi,Bổ sung thực phẩm giàu dinh dưỡng
+272,Viêm phổi,Tiêu thụ thực phẩm giàu vitamin C và chất chống oxy hóa
+273,Viêm phổi,Bổ sung thực phẩm giàu kẽm
+274,Viêm phổi,Hạn chế thực phẩm và đồ uống có đường
+275,Viêm phổi,Ăn súp gà
+276,Viêm phổi,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+277,Viêm phổi,Nghỉ ngơi và tiết kiệm năng lượng
+278,Viêm phổi,Dần dần trở lại chế độ ăn uống bình thường
+279,Viêm phổi,Thực hiện theo các khuyến nghị y tế
+280,Bệnh trĩ lưỡng hình (cọc),Tiêu thụ thực phẩm giàu chất xơ
+281,Bệnh trĩ lưỡng hình (cọc),Giữ nước
+282,Bệnh trĩ lưỡng hình (cọc),Bổ sung thực phẩm giàu dinh dưỡng
+283,Bệnh trĩ lưỡng hình (cọc),Tiêu thụ thực phẩm giàu flavonoid
+284,Bệnh trĩ lưỡng hình (cọc),Hạn chế thực phẩm chế biến sẵn
+285,Bệnh trĩ lưỡng hình (cọc),Tránh thức ăn cay và nhiều dầu mỡ
+286,Bệnh trĩ lưỡng hình (cọc),Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+287,Bệnh trĩ lưỡng hình (cọc),Thực hành vệ sinh tốt
+288,Bệnh trĩ lưỡng hình (cọc),Dần dần trở lại chế độ ăn uống bình thường
+289,Bệnh trĩ lưỡng hình (cọc),Thực hiện theo các khuyến nghị y tế
+290,Đau tim,Thực hiện chế độ ăn uống lành mạnh cho tim
+291,Đau tim,Hạn chế ăn natri
+292,Đau tim,Bổ sung thực phẩm giàu chất xơ
+293,Đau tim,Tiêu thụ chất béo lành mạnh
+294,Đau tim,Bao gồm protein nạc
+295,Đau tim,Hạn chế thực phẩm và đồ uống có đường
+296,Đau tim,Giữ nước
+297,Đau tim,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+298,Đau tim,Thực hiện theo các khuyến nghị y tế
+299,Đau tim,Tham gia tập thể dục thường xuyên
+300,Giãn tĩnh mạch,Áp dụng chế độ ăn nhiều chất xơ
+301,Giãn tĩnh mạch,Giữ nước
+302,Giãn tĩnh mạch,Bổ sung thực phẩm giàu dinh dưỡng
+303,Giãn tĩnh mạch,Tiêu thụ thực phẩm giàu chất chống oxy hóa
+304,Giãn tĩnh mạch,Hạn chế ăn natri
+305,Giãn tĩnh mạch,Bổ sung thực phẩm giàu flavonoid
+306,Giãn tĩnh mạch,Tránh đứng hoặc ngồi trong thời gian dài
+307,Giãn tĩnh mạch,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+308,Giãn tĩnh mạch,Thực hiện theo các khuyến nghị y tế
+309,Giãn tĩnh mạch,Tham gia tập thể dục thường xuyên
+310,Suy giáp,Bổ sung thực phẩm giàu iốt
+311,Suy giáp,Tiêu thụ thực phẩm giàu selen
+312,Suy giáp,Giữ nước
+313,Suy giáp,Bổ sung thực phẩm giàu dinh dưỡng
+314,Suy giáp,Hạn chế thực phẩm chế biến sẵn
+315,Suy giáp,Tiêu thụ thực phẩm giàu vitamin B và D
+316,Suy giáp,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+317,Suy giáp,Thực hiện theo các khuyến nghị y tế
+318,Suy giáp,Duy trì cân nặng ổn định
+319,Suy giáp,Tham gia tập thể dục thường xuyên
+320,Bệnh cường giáp,Hạn chế lượng iốt
+321,Bệnh cường giáp,Tiêu thụ rau họ cải ở mức độ vừa phải
+322,Bệnh cường giáp,Giữ nước
+323,Bệnh cường giáp,Bổ sung thực phẩm giàu dinh dưỡng
+324,Bệnh cường giáp,Hạn chế caffeine và rượu
+325,Bệnh cường giáp,Bao gồm axit béo omega-3
+326,Bệnh cường giáp,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+327,Bệnh cường giáp,Thực hiện theo các khuyến nghị y tế
+328,Bệnh cường giáp,Duy trì cân nặng ổn định
+329,Bệnh cường giáp,Tham gia tập thể dục thường xuyên
+330,Hạ đường huyết,Tiêu thụ carbohydrate phức tạp
+331,Hạ đường huyết,Bổ sung thực phẩm giàu protein
+332,Hạ đường huyết,Giữ nước
+333,Hạ đường huyết,Hạn chế thực phẩm và đồ uống có đường
+334,Hạ đường huyết,Ăn các bữa chính và bữa ăn nhẹ đều đặn
+335,Hạ đường huyết,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+336,Hạ đường huyết,Theo dõi lượng đường trong máu
+337,Hạ đường huyết,Thực hiện theo các khuyến nghị y tế
+338,Hạ đường huyết,Tham gia hoạt động thể chất thường xuyên
+339,Hạ đường huyết,Hạn chế uống rượu
+340,Viêm xương khớp,Tiêu thụ thực phẩm chống viêm
+341,Viêm xương khớp,Bao gồm axit béo omega-3
+342,Viêm xương khớp,Tiêu thụ thực phẩm giàu chất chống oxy hóa
+343,Viêm xương khớp,Giữ nước
+344,Viêm xương khớp,Hạn chế thực phẩm chế biến sẵn
+345,Viêm xương khớp,Bổ sung thực phẩm giàu vitamin K
+346,Viêm xương khớp,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+347,Viêm xương khớp,Thực hiện theo các khuyến nghị y tế
+348,Viêm xương khớp,Tham gia vào các bài tập có tác động thấp
+349,Viêm xương khớp,Duy trì cân nặng khỏe mạnh
+350,Viêm khớp,Tiêu thụ thực phẩm chống viêm
+351,Viêm khớp,Bao gồm axit béo omega-3
+352,Viêm khớp,Tiêu thụ thực phẩm giàu chất chống oxy hóa
+353,Viêm khớp,Giữ nước
+354,Viêm khớp,Hạn chế thực phẩm chế biến sẵn
+355,Viêm khớp,Bổ sung thực phẩm giàu vitamin K
+356,Viêm khớp,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+357,Viêm khớp,Thực hiện theo các khuyến nghị y tế
+358,Viêm khớp,Tham gia vào các bài tập có tác động thấp
+359,Viêm khớp,Duy trì cân nặng khỏe mạnh
+360,(Chóng mặt) chóng mặt tư thế kịch phát,"Tránh các thực phẩm kích thích (caffeine, rượu)"
+361,(Chóng mặt) chóng mặt tư thế kịch phát,Hạn chế ăn natri
+362,(Chóng mặt) chóng mặt tư thế kịch phát,Giữ nước
+363,(Chóng mặt) chóng mặt tư thế kịch phát,Tiêu thụ gừng và bạch quả
+364,(Chóng mặt) chóng mặt tư thế kịch phát,Hạn chế chất ngọt nhân tạo
+365,(Chóng mặt) chóng mặt tư thế kịch phát,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+366,(Chóng mặt) chóng mặt tư thế kịch phát,Tránh cử động đầu đột ngột
+367,(Chóng mặt) chóng mặt tư thế kịch phát,Thực hiện theo các khuyến nghị y tế
+368,(Chóng mặt) chóng mặt tư thế kịch phát,Quản lý căng thẳng
+369,(Chóng mặt) chóng mặt tư thế kịch phát,Hạn chế caffeine và chất kích thích
+370,Mụn trứng cá,Áp dụng một chế độ ăn uống cân bằng
+371,Mụn trứng cá,Hạn chế thực phẩm từ sữa và đường huyết cao
+372,Mụn trứng cá,Bao gồm chất chống oxy hóa
+373,Mụn trứng cá,Giữ nước
+374,Mụn trứng cá,Hạn chế thực phẩm chế biến sẵn
+375,Mụn trứng cá,Bổ sung thực phẩm giàu kẽm
+376,Mụn trứng cá,Tham khảo ý kiến ​​chuyên gia chăm sóc da
+377,Mụn trứng cá,Thực hành vệ sinh chăm sóc da tốt
+378,Mụn trứng cá,Hạn chế thực phẩm và đồ uống có đường
+379,Mụn trứng cá,Thực hiện theo các khuyến nghị y tế
+380,Nhiễm trùng đường tiết niệu,Giữ nước
+381,Nhiễm trùng đường tiết niệu,Tiêu thụ sản phẩm nam việt quất
+382,Nhiễm trùng đường tiết niệu,Bổ sung thực phẩm giàu vitamin C
+383,Nhiễm trùng đường tiết niệu,Hạn chế caffeine và rượu
+384,Nhiễm trùng đường tiết niệu,Tiêu thụ men vi sinh
+385,Nhiễm trùng đường tiết niệu,Tránh thực phẩm cay và có tính axit
+386,Nhiễm trùng đường tiết niệu,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+387,Nhiễm trùng đường tiết niệu,Thực hiện theo các khuyến nghị y tế
+388,Nhiễm trùng đường tiết niệu,Giữ vệ sinh tốt
+389,Nhiễm trùng đường tiết niệu,Hạn chế thực phẩm và đồ uống có đường
+390,Bệnh vẩy nến,Tiêu thụ thực phẩm chống viêm
+391,Bệnh vẩy nến,Bao gồm axit béo omega-3
+392,Bệnh vẩy nến,Bao gồm các chất tương tự vitamin D
+393,Bệnh vẩy nến,Hạn chế uống rượu
+394,Bệnh vẩy nến,Giữ nước
+395,Bệnh vẩy nến,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+396,Bệnh vẩy nến,Hạn chế thực phẩm chế biến sẵn
+397,Bệnh vẩy nến,Thực hiện theo các khuyến nghị y tế
+398,Bệnh vẩy nến,Quản lý căng thẳng
+399,Bệnh vẩy nến,Cân nhắc liệu pháp quang trị liệu dưới sự hướng dẫn của bác sĩ
+400,Bệnh chốc lở,Giữ vệ sinh tốt
+401,Bệnh chốc lở,Giữ nước
+402,Bệnh chốc lở,Tiêu thụ thực phẩm giàu chất dinh dưỡng
+403,Bệnh chốc lở,Hạn chế thực phẩm và đồ uống có đường
+404,Bệnh chốc lở,Bổ sung thực phẩm giàu vitamin C
+405,Bệnh chốc lở,Tham khảo ý kiến ​​chuyên gia chăm sóc sức khỏe
+406,Bệnh chốc lở,Thực hiện theo các khuyến nghị y tế
+407,Bệnh chốc lở,Tránh gãi
+408,Bệnh chốc lở,Uống thuốc kháng sinh theo quy định
+409,Bệnh chốc lở,Thực hành chăm sóc vết thương
